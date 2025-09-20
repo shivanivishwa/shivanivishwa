@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivanivishwa
+- 👋 Hi, I’m @shivani
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on my projects
